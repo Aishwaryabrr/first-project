@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>
+learn html
+</title>
+</head>
+<body>
+<h1>
+learn html</h1>
+<p>
+<<<<<<< HEAD
+portaluuuuuuu
+=======
+portaluuuu
+>>>>>>> 91e4daa (adding changes in branch before rebase conflict)
+portal
+portal</p>
+</body>
+</html>
