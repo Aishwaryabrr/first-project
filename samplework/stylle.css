@@ -1,0 +1,30 @@
+body{
+	background-color:lightblue;
+	font-family:'seogoe UI',tahoma,geneva,verdana,sans-serif;
+}
+.content-wrapper{
+	padding:10px 30px;
+}
+p{
+	text-align:justify;
+}
+h1{
+	.highlight{
+		font-weight:700;
+		color:forestgreen;
+	}
+h1,h2{
+	font-weight:400;
+}
+ul li{
+	list-style-type:square;
+	margin-bottom:10px;
+}
+u{
+	text-align:center;
+}
+h1,h2{
+	font-weight:400;
+}
+
+	
